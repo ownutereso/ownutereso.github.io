@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ownutereso.github.io/sitemap
+Sitemap: https://ownutereso.github.io/app/sitemap
+Sitemap: https://ownutereso.github.io/assets/sitemap
+Sitemap: https://ownutereso.github.io/css/sitemap
+Sitemap: https://ownutereso.github.io/includes/sitemap
+Sitemap: https://ownutereso.github.io/item/sitemap
+Sitemap: https://ownutereso.github.io/src/sitemap
